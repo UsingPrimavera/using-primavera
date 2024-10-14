@@ -57,4 +57,4 @@ jekyll-spaceship:
       custom: ['@startmermaid', '@endmermaid']
     config:
       theme: default
-    src: https://kroki.io/mermaid/svg/
+    src: https://mermaid.ink/svg/
